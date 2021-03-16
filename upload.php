@@ -1,6 +1,6 @@
 <?php
 
-require_once __DIR__ . '/protected/config/config.php';
+
 
 $allowedTypes = array('image/png', 'image/jpeg', 'image/gif', 'video/webm');
 
